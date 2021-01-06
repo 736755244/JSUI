@@ -1,5 +1,5 @@
 /**
- * @author monkeywang
+ * @author zhumeng
  * Date: 17/11/14
  */
 import updateMetaInfo from './src/metaOperate/updateMetaInfo'

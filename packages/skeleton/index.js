@@ -1,5 +1,5 @@
 /**
- * @author monkeywang
+ * @author zhumeng
  * Date: 17/11/20
  */
 import Skeleton from './src/skeleton.vue'

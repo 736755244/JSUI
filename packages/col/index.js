@@ -1,5 +1,5 @@
 /**
- * @author monkeywang
+ * @author zhumeng
  * Date: 17/11/9
  */
 import Col from './src/col';
