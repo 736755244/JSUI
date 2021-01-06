@@ -1,8 +1,9 @@
 {
-  "name": "joysuchui",
-  "version": "1.0.0",
+  "name": "@zhumeng/joysuchui",
+  "version": "1.0.1",
   "description": "This is a UI components for Vue 2.x ",
   "author": "zhumeng <15751774037@163.com>",
+  "license": "MIT",
   "main": "packages/index.js",
   "private": false,
   "scripts": {
@@ -28,6 +29,7 @@
     "prerender-spa-plugin": "^2.1.0",
     "semver": "^5.4.1",
     "transliteration": "^1.6.2",
+    "user": "0.0.0",
     "vue": "^2.5.2",
     "vue-markdown-loader": "^2.2.3",
     "vue-router": "^3.0.1"
