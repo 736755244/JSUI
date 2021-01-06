@@ -7,7 +7,7 @@
 # 公告
 感谢支持，欢迎一起学习交流。
 
-# VV UI
+# JoySuch UI
 
 `JoySuch-UI` 是一款基于 `Vue.js 2.0` 的前端 UI 组件库，主要用于快速开发 PC 网站中后台产品
 [演示地址](https://736755244.github.io/IView)
