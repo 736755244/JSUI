@@ -1,7 +1,12 @@
+.DS_Store
+config
 examples/
-packages/
+node_modules/
+# packages/
 public/
-vue.config.js
-jest.config.js
-babel.config.js
+tests
 *.map
+package.json
+package-lock.json
+.gitignore
+# .npmignore
